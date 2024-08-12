@@ -1,1 +1,2 @@
 Hello, Fred!
+I love programming
